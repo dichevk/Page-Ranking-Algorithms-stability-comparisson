@@ -1,0 +1,36 @@
+Type: M4
+graph-M4-0 : absolute distance = 22 | largest_change = 6
+graph-M4-1 : absolute distance = 16 | largest_change = 6
+graph-M4-2 : absolute distance = 10 | largest_change = 4
+graph-M4-3 : absolute distance = 2 | largest_change = 1
+graph-M4-4 : absolute distance = 10 | largest_change = 3
+graph-M4-5 : absolute distance = 12 | largest_change = 6
+graph-M4-6 : absolute distance = 6 | largest_change = 3
+graph-M4-7 : absolute distance = 12 | largest_change = 5
+graph-M4-8 : absolute distance = 16 | largest_change = 5
+graph-M4-9 : absolute distance = 20 | largest_change = 5
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Type: M6
+graph-M6-0 : absolute distance = 18 | largest_change = 6
+graph-M6-1 : absolute distance = 8 | largest_change = 4
+graph-M6-2 : absolute distance = 20 | largest_change = 6
+graph-M6-2 : absolute distance = 20 | largest_change = 6
+graph-M6-4 : absolute distance = 24 | largest_change = 7
+graph-M6-5 : absolute distance = 8 | largest_change = 3
+graph-M6-0 : absolute distance = 18 | largest_change = 6
+graph-M6-5 : absolute distance = 8 | largest_change = 3
+graph-M6-8 : absolute distance = 24 | largest_change = 5
+graph-M6-9 : absolute distance = 20 | largest_change = 5
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Type: M8
+graph-M8-0 : absolute distance = 10 | largest_change = 4
+graph-M8-1 : absolute distance = 20 | largest_change = 5
+graph-M8-2 : absolute distance = 22 | largest_change = 7
+graph-M8-3 : absolute distance = 26 | largest_change = 7
+graph-M8-4 : absolute distance = 40 | largest_change = 6
+graph-M8-5 : absolute distance = 22 | largest_change = 6
+graph-M8-6 : absolute distance = 26 | largest_change = 6
+graph-M8-1 : absolute distance = 20 | largest_change = 5
+graph-M8-8 : absolute distance = 24 | largest_change = 6
+graph-M8-8 : absolute distance = 24 | largest_change = 6
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
